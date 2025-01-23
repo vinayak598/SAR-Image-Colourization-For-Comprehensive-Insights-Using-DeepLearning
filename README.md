@@ -70,9 +70,6 @@ colorize-bw-images/
 
 ## Authors
 - JVR Vinayak
-- K Vamshi
-- Contributors: Feel free to add your name here!
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
